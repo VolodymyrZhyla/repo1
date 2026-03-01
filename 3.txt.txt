@@ -9,9 +9,13 @@ and again
 new
 >>>>>>> 4337a96bb2ee36a6aa5c4c29a0795dcf44e841d3
 
+<<<<<<< HEAD
 Hi
 and again
 
 another text
 
 weather2
+=======
+and again
+>>>>>>> e9b260b (dev3 commit)
