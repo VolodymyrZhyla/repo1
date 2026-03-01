@@ -1,0 +1,10 @@
+This is a branch develop.
+This is a branch dev1
+
+<<<<<<< HEAD
+This is branch develop again. 
+
+and again
+=======
+new
+>>>>>>> 4337a96bb2ee36a6aa5c4c29a0795dcf44e841d3
