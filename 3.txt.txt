@@ -11,6 +11,7 @@ new
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi
 and again
 
@@ -23,3 +24,9 @@ and again
 =======
 and again
 >>>>>>> e9b260b (dev3 commit)
+=======
+Hi
+and again
+
+another text
+>>>>>>> cac6568 (04.03)
